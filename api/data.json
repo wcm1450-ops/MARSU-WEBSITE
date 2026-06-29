@@ -1,0 +1,90 @@
+{
+  "company": {
+    "name": "MARSU",
+    "description": "領先的產業解決方案提供商",
+    "founded": "2010",
+    "email": "contact@marsu.com",
+    "phone": "+886 2 1234-5678",
+    "address": "台灣台北市信義區",
+    "mission": "通過創新和卓越的服務，為客戶提供最佳的解決方案",
+    "vision": "成為業界領先的解決方案提供商"
+  },
+  "products": [
+    {
+      "id": "product-a",
+      "name": "產品 A - 標準系列",
+      "description": "高效能的標準系列產品，適合大多數應用場景",
+      "category": "標準系列",
+      "features": ["高效能", "易安裝", "耐用"],
+      "price_range": "中等"
+    },
+    {
+      "id": "product-b",
+      "name": "產品 B - 專業系列",
+      "description": "專為專業用戶設計，提供進階功能和性能",
+      "category": "專業系列",
+      "features": ["進階功能", "高性能", "可定製"],
+      "price_range": "高級"
+    },
+    {
+      "id": "product-c",
+      "name": "產品 C - 企業系列",
+      "description": "為企業級應用設計，具有企業級支持和保障",
+      "category": "企業系列",
+      "features": ["企業級", "全面支持", "可擴展"],
+      "price_range": "企業級"
+    }
+  ],
+  "services": [
+    {
+      "id": "service-1",
+      "name": "諮詢服務",
+      "description": "提供專業的業務諮詢和戰略規劃服務",
+      "details": ["需求分析", "戰略規劃", "實施支持"]
+    },
+    {
+      "id": "service-2",
+      "name": "技術支持",
+      "description": "提供全面的技術支持，確保產品最佳運行",
+      "details": ["遠程支持", "現場服務", "故障排查"]
+    },
+    {
+      "id": "service-3",
+      "name": "培訓課程",
+      "description": "為客戶提供專業培訓課程",
+      "details": ["線上課程", "現場培訓", "認證課程"]
+    },
+    {
+      "id": "service-4",
+      "name": "維護服務",
+      "description": "定期維護和升級服務",
+      "details": ["定期檢查", "預防性維護", "緊急應對"]
+    },
+    {
+      "id": "service-5",
+      "name": "客製化方案",
+      "description": "根據客戶特定需求的解決方案",
+      "details": ["需求評估", "方案設計", "部署實施"]
+    },
+    {
+      "id": "service-6",
+      "name": "售後服務",
+      "description": "完善的售後服務體系",
+      "details": ["保修期支持", "擴展保障", "升級服務"]
+    }
+  ],
+  "values": [
+    "品質第一",
+    "創新進步",
+    "客戶至上",
+    "誠信合作",
+    "社會責任"
+  ],
+  "history": [
+    {"year": "2010", "milestone": "公司成立"},
+    {"year": "2015", "milestone": "推出旗艦產品系列"},
+    {"year": "2018", "milestone": "擴展國際市場"},
+    {"year": "2022", "milestone": "推出創新服務平台"},
+    {"year": "2025", "milestone": "達成重要里程碑"}
+  ]
+}
